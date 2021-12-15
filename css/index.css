@@ -24,7 +24,8 @@ h1, h2 {
     color: rgb(209, 32, 9);
     font-size: 40px;
     font-variant: small-caps;
-    word-spacing: 20px;
+    word-spacing: 10px;
+    padding-inline-end: 20px;
 }
 
 p {
