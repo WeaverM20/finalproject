@@ -41,3 +41,7 @@ html {
   ol, ul {
     color: rgb(240, 37, 105);
   }
+
+  .view {
+      float: right;
+  }
