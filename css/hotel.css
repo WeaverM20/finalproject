@@ -35,7 +35,9 @@ html {
   }
 
 ul {
-  color: rgb(8, 118, 209)
+  color: rgb(8, 118, 209);
+  float: right;
+  
 }
 
 p {
