@@ -25,3 +25,27 @@ html {
     padding: 30px;
     margin: 20px;
   }
+
+  table,
+  tr,
+  th,
+  td {
+    border: 1px solid rgb(119, 6, 119);
+    border-collapse: collapse;
+    margin: 40px 0;
+    padding: 2px 0;
+  }
+  
+  td {
+    padding: 4px 8px;
+  }
+  
+  thead,
+  tr {
+    background-color: rgb(235, 78, 235);
+  }
+  
+  .hours {
+    background-color: rgb(243, 3, 3);
+    color: rgb(222, 230, 238);
+  }
