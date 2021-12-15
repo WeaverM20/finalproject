@@ -7,3 +7,7 @@ html {
     box-sizing : inherit ;
 }
  /* end of CSS reset */
+
+ body {
+     background-color: rgb(3, 66, 3);
+ }
