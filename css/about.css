@@ -43,5 +43,6 @@ html {
   }
 
   .view {
+    color: rgb(153, 114, 8);
       float: right;
   }
