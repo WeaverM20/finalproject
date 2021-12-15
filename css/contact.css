@@ -15,7 +15,7 @@ html {
 form {
   width: 60%;
   background-color:  rgb(8, 118, 209);
-  color: rgb(243, 70, 70);
+  color: rgb(14, 6, 6);
   padding: 10px;
 }
 
@@ -28,7 +28,7 @@ legend {
   font-variant-caps: all-petite-caps;
   font-weight: bold;
   padding-bottom: 5px;
-  color: rgb(153, 114, 8);
+  color: rgb(12, 9, 1);
 }
 
 label [for="firstName"],
@@ -52,4 +52,10 @@ button {
   font-size: 1.2rem;
   box-shadow: 3px 4px;
   cursor: pointer;
+}
+
+nav li{
+  list-style-type: none;
+  display: inline;
+  padding-right: 20px;
 }

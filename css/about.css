@@ -46,9 +46,3 @@ html {
     color: rgb(153, 114, 8);
     float: right;
   }
-
-  nav li{
-    list-style-type: none;
-    display: inline;
-    padding-right: 20px;
-  }
