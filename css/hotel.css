@@ -10,6 +10,12 @@ html {
 
  body {
     background-color: rgb(15, 207, 118);
+    animation: fadebackground 5s:
+}
+
+@keyframes fadebackground {
+  from {background-color: rgb(239, 229, 241);}
+  to {background-color: rgb(39, 189, 119);}
 }
 
  nav li{
