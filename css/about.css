@@ -24,4 +24,5 @@ html {
     border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
+    float: right;
   }
