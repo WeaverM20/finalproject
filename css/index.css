@@ -25,7 +25,7 @@ h1, h2 {
     font-size: 40px;
     font-variant: small-caps;
     word-spacing: 10px;
-    padding: 20px;
+    padding-bottom: 20px;
 }
 
 p {
