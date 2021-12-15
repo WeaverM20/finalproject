@@ -27,7 +27,7 @@ legend {
   font-variant-caps: all-petite-caps;
   font-weight: bold;
   padding-bottom: 5px;
-  color: rgba(14, 1, 1, 0.13);
+  color: rgb(153, 114, 8);
 }
 
 label [for="firstName"],
