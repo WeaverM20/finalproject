@@ -43,5 +43,5 @@ html {
   }
 
   .view {
-      float: right;
+      float: inline-end;
   }
