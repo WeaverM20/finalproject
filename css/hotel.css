@@ -10,7 +10,7 @@ html {
 
  body {
     background-color: rgb(15, 207, 118);
-    animation: fadebackground 5s:
+    animation: fadebackground 5s;
 }
 
 @keyframes fadebackground {

@@ -14,13 +14,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    animation: fadebackground 5s;
-}
-
-@keyframes fadebackground {
-  from {background-color: rgb(239, 229, 241);}
-  to {background-color: rgb(39, 189, 119);}
-}
+ }
 
 form {
   width: 60%;
