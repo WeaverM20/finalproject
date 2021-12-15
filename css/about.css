@@ -24,9 +24,11 @@ html {
     border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
+    float: right;
   }
 
   h1, h2, h3, h4 {
+      color: rgb(241, 44, 44);
       font-family: cursive;
       font-style: oblique;
       
