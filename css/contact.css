@@ -14,7 +14,7 @@ html {
 
 form {
   width: 60%;
-  background-color: rgb(243, 70, 70)
+  background-color: rgb(243, 70, 70);
   color:  rgb(8, 118, 209);
   padding: 10px;
 }
@@ -47,7 +47,6 @@ button {
   padding: 10px 15px;
   margin: 10%;
   background-color: rgba(99, 97, 97, 0.13);
-  color:  rgb(8, 118, 209);
   font-variant-caps: all-petite-caps;
   letter-spacing: 1px;
   font-size: 1.2rem;
