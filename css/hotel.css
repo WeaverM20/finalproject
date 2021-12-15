@@ -40,11 +40,11 @@ ul {
 }
 
 p {
-  color: rgb(153, 114, 8);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 15px;
+ float right: ;
 }
 
 .resort {
-  float: right;
+  color: rgb(153, 114, 8);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
 }
