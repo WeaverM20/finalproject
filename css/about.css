@@ -24,5 +24,10 @@ html {
     border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
-    float: right;
+  }
+
+  h1, h2, h3, h4 {
+      font-family: cursive;
+      font-style: oblique;
+      
   }

@@ -17,3 +17,11 @@ html {
     display: inline;
     padding-right: 20px;
   }
+
+  img {
+    background-color: rgb(104, 160, 233);
+    width: 400px;
+    border-style: 20px ridge;
+    padding: 30px;
+    margin: 20px;
+  }
