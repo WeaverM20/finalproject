@@ -24,7 +24,11 @@ html {
     border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
-    float: initial;
+    float: right;
+  }
+
+  p{
+      float: right;
   }
 
   h1, h2, h3, h4 {
