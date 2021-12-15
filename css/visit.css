@@ -8,6 +8,10 @@ html {
 }
  /* end of CSS reset */
 
+ body {
+    background-color: rgb(14, 236, 144);
+}
+
  nav li{
     list-style-type: none;
     display: inline;
