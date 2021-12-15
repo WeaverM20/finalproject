@@ -22,6 +22,7 @@ html {
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(30, 44, 238);
+    font-style: oblique;
     font-size: 60px;
     font-variant: small-caps;
     letter-spacing: 4px;
@@ -31,7 +32,6 @@ h1 {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(74, 27, 245);
-    font-style: italic;
     font-size: 40px;
     line-height: 20px;
 }
