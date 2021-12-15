@@ -14,7 +14,7 @@ html {
 
 form {
   width: 60%;
-  background-color: #0a72cc;
+  background-color: rgb(243, 70, 70)
   padding: 10px;
 }
 
@@ -27,7 +27,7 @@ legend {
   font-variant-caps: all-petite-caps;
   font-weight: bold;
   padding-bottom: 5px;
-  color: rgba(99, 97, 97, 0.13);
+  color: rgba(14, 1, 1, 0.13);
 }
 
 label [for="firstName"],
@@ -46,7 +46,6 @@ button {
   padding: 10px 15px;
   margin: 10%;
   background-color: rgba(99, 97, 97, 0.13);
-  color: #1486e9;
   font-variant-caps: all-petite-caps;
   letter-spacing: 1px;
   font-size: 1.2rem;
