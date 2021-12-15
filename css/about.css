@@ -18,11 +18,10 @@ html {
     padding-right: 20px;
   }
 
-  .view {
-    background-color: rgb(56, 43, 231);
-    max-width: 20%;
-    border-style: 20px solid;
+  img {
+    background-color: rgb(104, 160, 233);
+    width: 400px;
+    border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
-    float: left;
-}
+  }
