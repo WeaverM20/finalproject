@@ -19,12 +19,19 @@ html {
   }
 
   img {
-    background-color: rgb(104, 160, 233);
+    background-color: rgb(243, 70, 70);
     width: 400px;
     border-style: 20px ridge;
     padding: 30px;
     margin: 20px;
   }
+
+h1, h2, h3, h4, h5, h6, h7 {
+  color: rgb(243, 70, 70);
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
 
   table,
   tr,
@@ -44,8 +51,11 @@ html {
   tr {
     background-color: rgb(235, 78, 235);
   }
-  
-  .hours {
-    background-color: rgb(243, 3, 3);
-    color: rgb(222, 230, 238);
-  }
+
+ .summit {
+   float: right;
+ } 
+
+ p {
+
+ }
