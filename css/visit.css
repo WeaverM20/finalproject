@@ -26,12 +26,12 @@ html {
     margin: 20px;
   }
 
-h1 {
+div {
   color: rgb(243, 70, 70);
   font-style: oblique;
 }
 
-h2, h3, h4, h5, h6, h7 {
+h2, h3, h4, h5, h6{
   color: rgb(243, 70, 70);
   font-style: oblique;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
