@@ -32,5 +32,6 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(74, 27, 245);
     font-style: italic;
-    font-size: 20px;
+    font-size: 40px;
+    line-height: 10px;
 }
