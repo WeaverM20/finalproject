@@ -27,10 +27,9 @@ html {
     float: right;
   }
 
-  p{
-     color: rgb(238, 176, 43);
-    float: right;
-  }
+ p {
+     color: rgb(216, 112, 147);
+ }
 
   h1, h2, h3, h4 {
       color: rgb(241, 44, 44);
