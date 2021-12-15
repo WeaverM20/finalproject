@@ -14,7 +14,7 @@ html {
  }
 
 @keyframes fadebackground {
-  from {background-color: rgb(16, 199, 16);}
+  from {background-color: rgb(162, 16, 199);}
   to {background-color: rgb(39, 189, 119);}
 }
 
