@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <p id="greet"></p>
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -20,7 +21,6 @@
             <li><a href="guide.html">Guide</a></li>
         </ul>
     </nav>
-     <p id="greet">
 <section class="sect-1">
 
     <h1>Welcome to the first step of planning your Mount Washington experience.</h1>
@@ -31,12 +31,9 @@
 <script>
   var fname = prompt ("What is your first name");
                 var lname = prompt ("What is your last name");
-            console.log ("Welcome," + fname + " " + lname);
+            console.log ("Greetings," + fname + " " + lname);
     
-            document.getElementById("greet").innerHTML = "Welcome, " + fname + " " + lname;
-            
-            console.log("web design")
-            alert("This is my web design journey")
+            document.getElementById("greet").innerHTML = "Greetings, " + fname + " " + lname;
 
 </script>
 
