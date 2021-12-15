@@ -17,3 +17,12 @@ html {
     display: inline;
     padding-right: 20px;
   }
+
+  .view {
+    background-color: rgb(56, 43, 231);
+    max-width: 20%;
+    border-style: 20px solid;
+    padding: 30px;
+    margin: 20px;
+    float: left;
+}
