@@ -44,6 +44,10 @@ nav li{
     padding-right: 20px;
   }
 
-  a; link{
+  a :link, a :visited {
       color: rgb(243, 70, 70);
   }
+
+a :hover, a :active {
+    color: rgb(71, 114, 243);
+}
