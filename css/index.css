@@ -18,3 +18,10 @@ html {
      font-size: 1.1rem;
      line-height: 1.4rem;
  }
+
+h1 {
+    font-family: 'Red Hat Mono', monospace;
+    color: rgb(245, 9, 9);
+    font-style: italic;
+    font-variant: small-caps;
+}
