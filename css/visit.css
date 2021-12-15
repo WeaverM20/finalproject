@@ -57,5 +57,9 @@ h1, h2, h3, h4, h5, h6, h7 {
  } 
 
  p {
+  color: rgb(153, 114, 8);
+ }
+
+ ol, ul {
   color: rgb(8, 118, 209)
  }
