@@ -28,7 +28,8 @@ html {
   }
 
   p{
-      float: right;
+     color: rgb(238, 176, 43);
+    float: right;
   }
 
   h1, h2, h3, h4 {
