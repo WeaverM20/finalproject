@@ -16,6 +16,13 @@ html {
     background-position: center;
  }
 
+ h1 {
+  color: rgb(243, 70, 70);
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+ }
+
 form {
   width: 60%;
   background-color:  rgb(8, 118, 209);
