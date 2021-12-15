@@ -15,6 +15,7 @@ html {
 form {
   width: 60%;
   background-color: rgb(243, 70, 70)
+  color:  rgb(8, 118, 209);
   padding: 10px;
 }
 
@@ -35,7 +36,6 @@ label [for="lastName"],
 label [for="email"],
 label [for="phone"] {
   background-color: rgb(119, 6, 119);
-  color:  rgb(8, 118, 209);
   width: 100px;
   text-align: right;
   display: inline-block;
