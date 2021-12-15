@@ -22,8 +22,7 @@ html {
 h1, h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(209, 32, 9);
-    font-style: italic;
-    font-size: 80px;
+    font-size: 40px;
     font-variant: small-caps;
     
 }
